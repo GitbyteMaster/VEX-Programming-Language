@@ -13,4 +13,6 @@ refrences. (VPL Docs: Batch Adaptation)
 
 *How can I contribute?*
 
-[This is in prog.]
+- You must have knowledge in Batch, simply the Windows variant*
+- You must be able to understand scripts and index
+- *You must know VEX, simply for modifying
